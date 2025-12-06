@@ -13,7 +13,7 @@ const socials = [
 	},
 	{
 		icon: <Linkedin size={30} />,
-		href: "https://github.com/solejdev",
+		href: "https://www.linkedin.com/in/solejdev",
 		label: "Linkedin",
 		handle: "solejdev",
 	},
